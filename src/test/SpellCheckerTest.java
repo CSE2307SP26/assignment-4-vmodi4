@@ -10,5 +10,6 @@ class SpellCheckerTest {
 	void test() {
 		fail("Not yet implemented");
 	}
+	// test comment
 
 }
